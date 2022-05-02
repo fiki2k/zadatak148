@@ -5,7 +5,7 @@
 
 int main()
 {
- int *p,*q,i=1,j,k,temp;  //q for storing address of 1st number
+ int *p,*q,i=1,j,k,temp;  
  printf("Unesi brojeve(-1 za kraj unosa) :: \n");
 
  printf("\nUnesi %d broj : ",i);
